@@ -1,0 +1,12 @@
+npm i  :
+// @material-us/core
+// react-leaflet  (The Map)
+// leaflet        (Also the Map)
+// react-chartjs-2 chart.js   (graph chart chartjs)
+// numeral  (for formating numbers.. (currency, percentages, decimal places))
+
+npm i -g firebase-tools
+firebase init
+ans build to this que " What do you want to use as your public directory?"
+npm run build
+firebase deploys

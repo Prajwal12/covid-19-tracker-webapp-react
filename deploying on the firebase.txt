@@ -1,0 +1,9 @@
+deploy React app on the firebase
+run-
+1. >>firebase init
+2. press spacebar
+3. select "Hosting..." from the given options and press spacebar and then hit entre
+4. What do you want to use as your public directory?-type-->> build
+5. then type-> Y
+6. >>npm run build
+7. >>firebase deploys
